@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Anul 3\EGC\gfx-framework-master\src\lab_m1\Tema2\Cladiri.h(7,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+     Creating library D:/Anul 3/EGC/gfx-framework-master/build/Debug/GFXFramework.lib and object D:/Anul 3/EGC/gfx-framework-master/build/Debug/GFXFramework.exp
+  GFXFramework.vcxproj -> D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\GFXFramework.exe
+  Junction created for D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\src <<===>> D:\Anul 3\EGC\gfx-framework-master\src
+  Junction created for D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\assets <<===>> D:\Anul 3\EGC\gfx-framework-master\assets
